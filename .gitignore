@@ -1,0 +1,12 @@
+# Node modules and environment files
+node_modules/
+.env
+
+# Prisma generated files and local SQLite database
+prisma/dev.db
+prisma/migrations/
+generated/prisma
+
+# Logs and misc
+*.log
+.DS_Store
